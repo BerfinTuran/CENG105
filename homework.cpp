@@ -2,5 +2,7 @@
 int main ()
 {
 	printf("ben berfin\n");
+	printf("<3");
+	printf("hello");
 	return (0);
 }
