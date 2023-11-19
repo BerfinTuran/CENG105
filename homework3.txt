@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main ()
+{
+	printf("ben berfin\n");
+	printf("<3");
+    printf("hello");
+    printf("hi");
+	printf("şevval");
+	return (0);
+}
